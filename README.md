@@ -1,2 +1,2 @@
 # Tradutor-ReactJS
-Created with CodeSandbox
+Link do projeto [aqui](https://x9mt8x.csb.app/)
