@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: RGB(152, 180, 212);
+  height: 100vh;
+}
+h1 {
+  margin-bottom: 0.5em;
+}
+h5 {
+  margin-bottom: 2em;
+}
+
+input {
+  padding: 0.5em;
+}
+button {
+  padding: 0.5em;
+}

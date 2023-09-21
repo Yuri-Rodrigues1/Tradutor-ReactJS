@@ -1,0 +1,10 @@
+.aviso-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end; /* Alinha os itens no final do eixo principal */
+  padding: 2em;
+}
+.btn-aviso {
+  padding: 0.5em 1em;
+  font-size: 1em;
+}
